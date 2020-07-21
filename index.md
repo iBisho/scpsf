@@ -1,6 +1,5 @@
 ---
-title: Main
-title-heading: false
+title: Home
 ---
 
 # Welcome everyone
