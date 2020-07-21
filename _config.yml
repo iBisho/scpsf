@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 github:
   is_project_page: false
 batfox: https://github.com/Batfoxkid
