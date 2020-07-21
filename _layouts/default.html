@@ -11,28 +11,24 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-					<h1 id="project_title">{{ page.title }}</h1>
+					<h1 id="project_title">SCP:SF Guide - {{ page.title }}</h1>
 					{% if page.description %}
 						<h2 id="project_tagline">{{ page.description }}</h2>
 					{% endif %}
         </header>
     </div>
 
-    <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
       </section>
     </div>
 
-    <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">This guide is maintained by <a href="{{ site.github.owner_url }}">Bisho</a>. SCP:SF is a Team Fortress 2 gamemode developed by <a href="{{ site.batfox }}">Batfoxkid</a>. All rights go to Batfoxkid for creating the gamemode. SCP:SF is NOT an open source plugin.</p>
+        <p class="copyright">This guide is maintained by <a href="{{ site.github.owner_url }}">Bisho</a>. SCP:SF is a Team Fortress 2 gamemode developed by <a href="{{ site.batfox }}">Batfoxkid</a>. All rights go to Batfoxkid for creating the gamemode. SCP:SF is NOT an open source sourcemod plugin.</p>
       </footer>
     </div>
   </body>
