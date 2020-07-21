@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+#head_wrap {
+	background: #000000 url("/assets/images/Banner.png") no-repeat center right;
+	background-size: 50%;
+}
+
+#footer_wrap {
+	background-color: #000000;
+}
+
 #main_content > p {
 	font-size: 22px;
 	text-align: justify;
