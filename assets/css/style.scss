@@ -1,8 +1,10 @@
----
----
-
 @import "{{ site.theme }}";
 
-body {
-	text-shadow: black .5px .5px;
+#main_content > p {
+	text-shadow: #7289da .5px .5px;
+	font-size: 18px;
+}
+
+.inner {
+	max-width: 60%;
 }
