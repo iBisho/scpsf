@@ -1,6 +1,6 @@
 ---
 title: Home
-description: A brief description of what the gamemode is about.
+description: A complete guide explaining the concepts of the gamemode.
 ---
 
 ## Keycards
