@@ -1,5 +1,5 @@
 ---
-title: SCP:SF Guide | TF2
+title: Main
 title-heading: false
 ---
 

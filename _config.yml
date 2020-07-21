@@ -3,17 +3,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-slate
 github:
   is_project_page: false
+batfox: https://github.com/Batfoxkid
 name: SCP:SF Guide
 title: null
