@@ -1,8 +1,11 @@
+---
+---
+
 @import "{{ site.theme }}";
 
-p {
-	text-shadow: #7289da .5px .5px;
-	font-size: 26px;
+#main_content > p {
+	font-size: 20px;
+	text-align: justify;
 }
 
 .inner {
