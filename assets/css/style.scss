@@ -3,13 +3,18 @@
 
 @import "{{ site.theme }}";
 
+:root {
+	--primary-color: #000;
+	--secondary-color: #0e0d0d;
+}
+
 #header_wrap {
-	background: #000000 url("/assets/images/Banner.png") no-repeat center right;
+	background: var(--primary-color) url("/assets/images/Banner.png") no-repeat center right;
 	background-size: 50%;
 }
 
 #footer_wrap {
-	background-color: #000000;
+	background-color: var(--primary-color);
 }
 
 #main_content > p {
