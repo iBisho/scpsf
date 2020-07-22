@@ -1,7 +1,7 @@
 let current = 0;
 
 function switchColors() {
-	document.head.style.setProperty('--primary-color', current ? '#fff' : '#000');
+	document.documentElement.style.setProperty('--secondary-color', current ? '#fff' : '#0e0d0d');
 	if (current) {
 		document.getElementById('theme-changer').innerHTML = 'Switch to Light Theme';
 		current = 0;

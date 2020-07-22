@@ -8,6 +8,10 @@
 	--secondary-color: #0e0d0d;
 }
 
+body {
+	background-color: var(--secondary-color);	
+}
+
 #header_wrap {
 	background: var(--primary-color) url("/assets/images/Banner.png") no-repeat center right;
 	background-size: 50%;
