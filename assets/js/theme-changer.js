@@ -1,4 +1,4 @@
-const current = 0;
+let current = 0;
 
 function switchColors() {
 	document.head.style.setProperty('--primary-color', current ? '#fff' : '#000');
