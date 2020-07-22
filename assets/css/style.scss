@@ -6,7 +6,7 @@
 :root {
 	--primary-color: #000;
 	--secondary-color: #0a0a0a;
-	--text-color: #bbb0b0;
+	--text-color: #dadada;
 }
 
 #theme_changer:hover {
@@ -35,4 +35,12 @@
 
 .inner {
 	max-width: 65%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--text-color);
+}
+
+code {
+	box-shadow: 0 0 10px rgba(255, 255, 255, 0.64)
 }

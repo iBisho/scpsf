@@ -4,12 +4,12 @@ const colors = {
 	white: {
 		primary: '#000',
 		secondary: '#fff',
-		text: '#373737'
+		text: '#252525'
 	},
 	dark: {
 		primary: '#000',
 		secondary: '#0a0a0a',
-		text: '#bbb0b0'
+		text: '#dadada'
 	}
 }
 
