@@ -1,7 +1,21 @@
 let current = 1;
 
+const colors = {
+	white: {
+		primary: '#000',
+		secondary: '#fff',
+		text: '#373737'
+	},
+	dark: {
+		primary: '#000',
+		secondary: '#0a0a0a',
+		text: '#bbb0b0'
+	}
+}
+
 function switchColors() {
-	document.documentElement.style.setProperty('--secondary-color', current ? '#fff' : '#0e0d0d');
+	document.documentElement.style.setProperty('--secondary-color', current ? colors.white.secondary : colors.dark.secondary);
+	document.documentElement.style.setProperty('--text', current ? colors.white.text : colors.dark.text);
 	if (current) {
 		document.getElementById('theme_changer').innerHTML = 'Switch to Dark Theme';
 		current = 0;

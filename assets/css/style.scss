@@ -5,7 +5,8 @@
 
 :root {
 	--primary-color: #000;
-	--secondary-color: #0e0d0d;
+	--secondary-color: #0a0a0a;
+	--text: #bbb0b0;
 }
 
 #theme_changer:hover {
@@ -29,8 +30,9 @@
 	font-size: 22px;
 	text-align: justify;
 	font-weight: 300;
+	color: var(--text);
 }
 
 .inner {
-	max-width: 60%;
+	max-width: 65%;
 }
