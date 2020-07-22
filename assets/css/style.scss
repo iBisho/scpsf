@@ -8,6 +8,10 @@
 	--secondary-color: #0e0d0d;
 }
 
+#theme_changer:hover {
+	cursor: pointer;
+}
+
 #main_content_wrap {
 	background-color: var(--secondary-color);	
 }
