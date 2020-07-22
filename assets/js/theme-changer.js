@@ -15,7 +15,7 @@ const colors = {
 
 function switchColors() {
 	document.documentElement.style.setProperty('--secondary-color', current ? colors.white.secondary : colors.dark.secondary);
-	document.documentElement.style.setProperty('--text', current ? colors.white.text : colors.dark.text);
+	document.documentElement.style.setProperty('--text-color', current ? colors.white.text : colors.dark.text);
 	if (current) {
 		document.getElementById('theme_changer').innerHTML = 'Switch to Dark Theme';
 		current = 0;

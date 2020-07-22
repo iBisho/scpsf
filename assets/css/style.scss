@@ -6,7 +6,7 @@
 :root {
 	--primary-color: #000;
 	--secondary-color: #0a0a0a;
-	--text: #bbb0b0;
+	--text-color: #bbb0b0;
 }
 
 #theme_changer:hover {
@@ -30,7 +30,7 @@
 	font-size: 22px;
 	text-align: justify;
 	font-weight: 300;
-	color: var(--text);
+	color: var(--text-color);
 }
 
 .inner {
