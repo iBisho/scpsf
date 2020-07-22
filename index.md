@@ -3,7 +3,11 @@ title: Home
 description: A complete guide explaining the concepts of the gamemode.
 ---
 
-## Keycards
+## What is this gamemode about?
+
+SCP: Secret Fortress is a Team Fortress 2 gamemode, developed by Batfoxkid, aimed at recreating the `SCP: Secret Laboratory` gameplay experience. It features (most of) the content, logic and strategy from SCP:SL with some slight modifications due to how TF2 works.
+
+## Why does this gamemode exist if we have SCP:SL?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec feugiat orci, eget rutrum velit. Nam imperdiet magna nec finibus viverra. Ut luctus purus augue, id gravida nibh gravida ut. Donec ut nulla vulputate, porta ex quis, egestas eros. Donec volutpat, ligula posuere tristique bibendum, lorem velit scelerisque nisi, sit amet varius nunc ex ac mi. Nulla a elementum orci, nec pharetra ante. Mauris rutrum consectetur risus, at feugiat felis fermentum non. Nullam lorem diam, varius nec tincidunt ultricies, accumsan et erat. In hac habitasse platea dictumst. Duis scelerisque magna ut nulla dignissim fermentum. Cras vitae neque purus.
 
