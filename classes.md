@@ -6,6 +6,7 @@ description: A full explanation of the playable human classes.
 ## Class-D
 
 > SCP Lore
+
 > Class-D ("Disposable Class") personnel are expendable individuals used for testing SCPs, notably Keter-class objects. They are unwillingly recruited by the SCP Foundation worldwide and are usually death row inmates. In times of duress, the Foundation will recruit individuals from civilian sources or inmates incarcerated of lesser crimes. Civilians can also 'sign up' to be part of the Class-D program at the Foundation.
 
 As a Class-D personnel,
