@@ -7,6 +7,7 @@
 	--primary-color: #000;
 	--secondary-color: #0a0a0a;
 	--text-color: #dadada;
+	--table-color: #fff;
 }
 
 #theme_changer:hover {
@@ -43,4 +44,21 @@ h1, h2, h3, h4, h5, h6 {
 
 code {
 	box-shadow: 0 0 10px rgba(255, 255, 255, 0.64)
+}
+
+table {
+	border: 1px solid var(--table-color);
+}
+
+th {
+	color: var(--text-color);
+	font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+	border: 1px solid var(--table-color);
+	background-color: var(--table-color);
+}
+
+td {
+	color: var(--text-color);
+	font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+	border: 1px solid var(--table-color);
 }

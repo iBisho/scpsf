@@ -15,8 +15,8 @@ Not everyone has a PC able to run SCP:SL, plus it's a very unoptimized game. So 
 
 Alright! Let's begin, shall we?
 
-|  Concept | Link | Description                                                                               |
-|:--------:|:----:|-------------------------------------------------------------------------------------------|
+|  Concept | Link |                                        Description                                        |
+|:--------:|:----:|:-----------------------------------------------------------------------------------------:|
 | Classes  | Goto | A brief description of the classes you will find ingame.                                  |
 | SCPs     | Goto | A list and description of the SCPs you will find ingame. Whether they're playable or not. |
 | Zones    | Goto | All available floors you can go to.                                                       |
