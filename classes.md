@@ -65,4 +65,4 @@ As a MTF Scientist, you can give orders to MTF Lieutenants, MTF Cadets and Facil
 
 As a MTF Commander, you can give orders to all MTF Units and Facility Personnel. You spawn with an Epsilon-11 MR, a Fragmentation Grenade, a Pain Killer, a MTF Commander Keycard, a Disarmer and a Radio.
 
-ALL MTF Personnel spawn in waves throughout the round on the surface near Gate B.
+All of the MTF Personnel spawn in waves throughout the round on the surface near Gate B.
