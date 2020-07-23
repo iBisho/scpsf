@@ -15,13 +15,14 @@ Not everyone has a PC able to run SCP:SL, plus it's a very unoptimized game. So 
 
 Alright! Let's begin, shall we?
 
-|  Concept | Link |                                        Description                                        |
-|:--------:|:----:|:-----------------------------------------------------------------------------------------:|
+|  Concept | Link                |                                        Description                                        |
+|:--------:|:-------------------:|:-----------------------------------------------------------------------------------------:|
 | Classes  | [Goto](/classes.md) | A brief description of the classes you will find ingame.                                  |
-| SCPs     | Goto | A list and description of the SCPs you will find ingame. Whether they're playable or not. |
-| Zones    | Goto | All available floors you can go to.                                                       |
-| Map      | Goto | Recreation of the map. Includes Humans, SCPs, Keycards and Weapons spawns.                |
-| Events   | Goto | A list of events that may occur during a game.                                            |
-| Keycards | Goto | List of available keycards with their respective access tiers.                            |
-| Rooms    | Goto | Important rooms you will find around the map.                                             |
-| Rules    | Goto | Gamemode rules created to ensure a great experience.                                      |
+| SCPs     | Goto                | A list and description of the SCPs you will find ingame. Whether they're playable or not. |
+| Zones    | Goto                | All available floors you can go to.                                                       |
+| Map      | Goto                | Recreation of the map. Includes Humans, SCPs, Keycards and Weapons spawns.                |
+| Events   | Goto                | A list of events that may occur during a game.                                            |
+| Keycards | Goto                | List of available keycards with their respective access tiers.                            |
+| Weapons  | Goto                | All weapons you can find or spawn with during the game                                    |
+| Rooms    | Goto                | Important rooms you will find around the map.                                             |
+| Rules    | Goto                | Gamemode rules created to ensure a great experience.                                      |
