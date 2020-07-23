@@ -51,14 +51,16 @@ table {
 }
 
 th {
-	color: var(--text-color);
+	color: var(--secondary-color);
 	font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 	border: 1px solid var(--table-color);
 	background-color: var(--table-color);
+	font-size: 18px;
 }
 
 td {
 	color: var(--text-color);
 	font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 	border: 1px solid var(--table-color);
+	font-size: 18px;
 }
