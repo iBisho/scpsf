@@ -18,7 +18,7 @@ Alright! Let's begin, shall we?
 
 | Concept  | Link                | Description                                                                               |
 |:--------:|:-------------------:|:-----------------------------------------------------------------------------------------:|
-| Classes  | [Goto](/classes)    | A brief description of the classes you will find ingame.                                  |
+| Classes  | [Goto](/secretfortress/classes)    | A brief description of the classes you will find ingame.                                  |
 | SCPs     | Goto                | A list and description of the SCPs you will find ingame. Whether they're playable or not. |
 | Zones    | Goto                | All available floors you can go to.                                                       |
 | Map      | Goto                | Recreation of the map. Includes Humans, SCPs, Keycards and Weapons spawns.                |
