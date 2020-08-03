@@ -1,6 +1,7 @@
 ---
 title: Human Classes
 description: A full explanation of the playable human classes.
+layout: scpsf
 ---
 
 # RED Team
