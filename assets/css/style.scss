@@ -5,7 +5,7 @@
 
 :root {
 	--primary-color: #000;
-	--secondary-color: #111111;
+	--secondary-color: #0e0e0e;
 	--text-color: #dadada;
 	--table-color: #fff;
 }
@@ -37,7 +37,7 @@
 	background-size: cover;
 }
 
-#main_content p {
+#main_content > p {
 	font-size: 18px;
 	text-align: justify;
 	font-weight: 300;
