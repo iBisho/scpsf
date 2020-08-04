@@ -27,13 +27,13 @@
 
 #main_content_wrap h2 {
 	padding-bottom: 0px;
-	border-bottom: 1px dashed var(--text-color);
+	border-bottom: 0.2px solid var(--text-color);
 	background-image: none;
 }
 
 #header_wrap {
 	background: var(--primary-color) url("/assets/images/Banner.png") no-repeat center right;
-	background-size: 50%;
+	background-size: contain;
 }
 
 #footer_wrap {
