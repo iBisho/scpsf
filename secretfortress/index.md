@@ -10,7 +10,7 @@ SCP: Secret Fortress is a Team Fortress 2 gamemode, developed by Batfoxkid, aime
 
 ## Why does this gamemode exist if we have SCP:SL?
 
-Not everyone has a PC able to run SCP:SL, plus it's a very unoptimized game. So what's better than having the Secret Laboratory experience (and more!) in TF2?
+Not everyone has a PC able to run SCP:SL, plus it's a very unoptimized game. So what's better than having the Secret Laboratory experience (and more!) in TF2? And as per Batfoxkid, why not?
 
 ## Table of Contents
 
