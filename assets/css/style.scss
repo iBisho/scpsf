@@ -21,11 +21,13 @@
 #main_content_wrap {
 	background: var(--secondary-color);
 	background-size: cover;
+	border-top: none;
+	border-bottom: none;
 }
 
 #main_content_wrap h2 {
 	padding-bottom: 0px;
-	border-bottom: 0.25px dashed var(--text-color);
+	border-bottom: 1px dashed var(--text-color);
 	background-image: none;
 }
 
@@ -37,8 +39,6 @@
 #footer_wrap {
 	background: var(--primary-color);
 	background-size: cover;
-	border-top: none;
-	border-bottom: none;
 }
 
 #main_content p {
