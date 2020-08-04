@@ -5,11 +5,11 @@ const colors = {
 		primary: '#000',
 		secondary: '#fff',
 		text: '#252525',
-		table: '#0a0a0a'
+		table: '#0e0e0e'
 	},
 	dark: {
 		primary: '#000',
-		secondary: '#0a0a0a',
+		secondary: '#0e0e0e',
 		text: '#dadada',
 		table: '#fff'
 	}
