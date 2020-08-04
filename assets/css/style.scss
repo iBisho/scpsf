@@ -15,7 +15,8 @@
 }
 
 #main_content_wrap {
-	background-color: var(--secondary-color);	
+	background: var(--secondary-color);
+	background-size: cover;
 }
 
 #header_wrap {
@@ -24,7 +25,8 @@
 }
 
 #footer_wrap {
-	background-color: var(--primary-color);
+	background: var(--primary-color);
+	background-size: cover;
 }
 
 #main_content > p {
